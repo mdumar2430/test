@@ -1,5 +1,0 @@
-{{#user}
-Name: Mohamad Umar M
-Skills: HTML, CSS, JS, ReactJs, Python, Java, Bootstrap
-Email: mdumar2405@gmail.com
-{{/user}}
